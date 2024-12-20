@@ -1,0 +1,152 @@
+|-- .expo
+    |-- README.md
+    |-- devices.json
+    |-- metro
+        |-- externals
+            |-- assert
+                |-- index.js
+            |-- async_hooks
+                |-- index.js
+            |-- buffer
+                |-- index.js
+            |-- child_process
+                |-- index.js
+            |-- cluster
+                |-- index.js
+            |-- console
+                |-- index.js
+            |-- constants
+                |-- index.js
+            |-- crypto
+                |-- index.js
+            |-- dgram
+                |-- index.js
+            |-- diagnostics_channel
+                |-- index.js
+            |-- dns
+                |-- index.js
+            |-- domain
+                |-- index.js
+            |-- events
+                |-- index.js
+            |-- fs
+                |-- index.js
+                |-- promises
+                    |-- index.js
+            |-- http
+                |-- index.js
+            |-- http2
+                |-- index.js
+            |-- https
+                |-- index.js
+            |-- inspector
+                |-- index.js
+            |-- module
+                |-- index.js
+            |-- net
+                |-- index.js
+            |-- os
+                |-- index.js
+            |-- path
+                |-- index.js
+            |-- perf_hooks
+                |-- index.js
+            |-- process
+                |-- index.js
+            |-- punycode
+                |-- index.js
+            |-- querystring
+                |-- index.js
+            |-- readline
+                |-- index.js
+            |-- repl
+                |-- index.js
+            |-- stream
+                |-- index.js
+            |-- string_decoder
+                |-- index.js
+            |-- timers
+                |-- index.js
+            |-- tls
+                |-- index.js
+            |-- trace_events
+                |-- index.js
+            |-- tty
+                |-- index.js
+            |-- url
+                |-- index.js
+            |-- util
+                |-- index.js
+            |-- v8
+                |-- index.js
+            |-- vm
+                |-- index.js
+            |-- wasi
+                |-- index.js
+            |-- worker_threads
+                |-- index.js
+            |-- zlib
+                |-- index.js
+        |-- polyfill.js
+        |-- polyfill.native.js
+        |-- shims
+            |-- react-native-web
+|-- .gitignore
+|-- README.md
+|-- app
+    |-- (tabs)
+        |-- _layout.tsx
+        |-- explore.tsx
+        |-- index.tsx
+        |-- settings.tsx
+    |-- +not-found.tsx
+    |-- _layout.tsx
+|-- app.json
+|-- assets
+    |-- fonts
+        |-- SpaceMono-Regular.ttf
+    |-- icon.png
+    |-- images
+        |-- adaptive-icon.png
+        |-- favicon.png
+        |-- icon.png
+        |-- notification-icon.png
+        |-- partial-react-logo.png
+        |-- react-logo.png
+        |-- react-logo@2x.png
+        |-- react-logo@3x.png
+        |-- splash-icon.png
+|-- components
+    |-- Collapsible.tsx
+    |-- ExternalLink.tsx
+    |-- HapticTab.tsx
+    |-- HelloWave.tsx
+    |-- ParallaxScrollView.tsx
+    |-- PrayerTimeCard.tsx
+    |-- ThemedText.tsx
+    |-- ThemedView.tsx
+    |-- __tests__
+        |-- ThemedText-test.tsx
+        |-- __snapshots__
+            |-- ThemedText-test.tsx.snap
+    |-- ui
+        |-- IconSymbol.tsx
+        |-- TabBarBackground.ios.tsx
+        |-- TabBarBackground.tsx
+|-- constants
+    |-- Colors.ts
+|-- eas.json
+|-- hooks
+    |-- useColorScheme.ts
+    |-- useColorScheme.web.ts
+    |-- usePrayerTimes.ts
+    |-- useThemeColor.ts
+|-- package-lock.json
+|-- package.json
+|-- scripts
+    |-- reset-project.js
+|-- services
+    |-- notificationService.ts
+|-- tsconfig.json
+|-- types
+    |-- index.ts
